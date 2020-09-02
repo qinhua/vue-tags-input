@@ -1,4 +1,3 @@
-<br>
 ![](./assets/logo.png)
 
 <p align="center">
