@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+coverage/
+test/chrome/
+NPM_PUBLISH/
+.editorconfig
+package-lock.json
+npm-debug.log
+yarn-error.log
+
+# Editor directories and files
+*.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
